@@ -33,7 +33,7 @@ This project is under an open-source license, which allows for unrestricted use 
 
 <div align="center">
  
-  <img src="./img/Screenshot_3.jpg"  width="90.5%" height="450" />
+  <img src="./img/Animation.gif"  width="90.5%" height="450" />
 </div>
 
 🤘🏻🚀 https://book-store-6xnc.vercel.app/
